@@ -66,5 +66,5 @@ Say delete to delete an item from the to-do list
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/FabioRosado/AudioToDoList/blob/master/LICENSE) file for details
 
