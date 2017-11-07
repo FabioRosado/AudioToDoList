@@ -32,6 +32,26 @@ sudo apt-get install gnustep-gui-runtime
 
 If you are running any Mac OS, you don't need to do anything.
 
+## Starting the To Do List
+
+Let's say you want your To Do List to be located in your Documents folder. 
+
+First you need to open a terminal window, change to the Documents directory and then clone the AudioToDoList repository.
+
+
+```
+cd Documents
+git clone https://github.com/FabioRosado/AudioToDoList.git
+```
+
+A new folder will be created with the name `AudioToDoList`. Now you can change into this directory and start the application
+
+```
+cd AudioToDoList
+python3 todo.py
+```
+
+
 
 ## Commands Available
 
